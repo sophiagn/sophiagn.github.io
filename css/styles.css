@@ -44,11 +44,11 @@ main {
 }
 
 main h2 {
-    color: #ddd; /* Light grey for section headers */
+    color: white; /* Light grey for section headers */
 }
 
 main p {
-    color: #ccc; /* Slightly darker grey for paragraph text */
+    color: white; /* Slightly darker grey for paragraph text */
 }
 
 /* Style the footer */
