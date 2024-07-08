@@ -1,6 +1,6 @@
 /* Apply a dark grey background to the entire page and white text */
 body {
-    background-color: #333; /* Dark grey */
+    background-color: #1b1b1b; /* Dark grey */
     color: white;          /* White text */
     font-family: Arial, sans-serif;
     margin: 0;
@@ -9,7 +9,7 @@ body {
 
 /* Style the header */
 header {
-    background-color: #444; /* Slightly lighter dark grey */
+    background-color: #343434; /* Slightly lighter dark grey */
     padding: 20px;
     text-align: center;
 }
