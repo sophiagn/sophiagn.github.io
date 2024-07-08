@@ -1,0 +1,62 @@
+/* Apply a dark grey background to the entire page and white text */
+body {
+    background-color: #333; /* Dark grey */
+    color: white;          /* White text */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #444; /* Slightly lighter dark grey */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Style the navigation menu */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Style the main content */
+main {
+    padding: 20px;
+}
+
+main h2 {
+    color: #ddd; /* Light grey for section headers */
+}
+
+main p {
+    color: #ccc; /* Slightly darker grey for paragraph text */
+}
+
+/* Style the footer */
+footer {
+    background-color: #444; /* Slightly lighter dark grey */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
